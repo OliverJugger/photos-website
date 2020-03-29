@@ -2425,25 +2425,25 @@ h3 {
 }
 
 /* line 145, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
-.footer .socail_links {
+.socail_links {
   text-align: right;
 }
 
 @media (max-width: 767px) {
   /* line 145, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
-  .footer .socail_links {
+  .socail_links {
     margin-top: 30px;
     text-align: center;
   }
 }
 
 /* line 153, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
-.footer .socail_links ul li {
+.socail_links ul li {
   display: inline-block;
 }
 
 /* line 156, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
-.footer .socail_links ul li a {
+.socail_links ul li a {
   font-size: 13px;
   color: #fff;
   width: 40px;
@@ -6231,6 +6231,14 @@ h6 {
 
 .mx-auto {
   max-height : 150px;
+}
+
+.contact_social_links {
+  text-align : center;
+}
+
+.copy_right{
+  text-align : center;
 }
 
 
