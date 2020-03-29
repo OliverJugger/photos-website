@@ -25,6 +25,7 @@ body {
   font-weight: normal;
   font-style: normal;
   background-image : url("../img/background_tom.png");
+  background-repeat : round;
 }
 
 /* line 12, ../../Arafath/CL/CL October/215. Photography/HTML/scss/theme-default.scss */
