@@ -24,7 +24,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-style: normal;
-  background-color: black;
+  background-image : url("../img/background_tom.png");
 }
 
 /* line 12, ../../Arafath/CL/CL October/215. Photography/HTML/scss/theme-default.scss */
@@ -6200,5 +6200,10 @@ h6 {
   margin-right: auto;
   margin-left: auto;
 }
+
+.header-row{
+  min-height : 80px;
+}
+
 
 /*# sourceMappingURL=style.css.map */
