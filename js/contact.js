@@ -1,4 +1,8 @@
 $(document).ready(function(){
+
+    /*$('#carousel').on('hover', function () {
+    this.next();
+    })*/
     
     (function($) {
         "use strict";
