@@ -6192,4 +6192,12 @@ h6 {
   font-size: 12px;
 }
 
+.no-padding {
+  width: 95%;
+  padding-right: 5px !important;
+  padding-left: 5px !important;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
