@@ -2142,7 +2142,7 @@ h3 {
 
 /* line 4, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_team.scss */
 .team_area .border_bottom {
-  border-bottom: 1px solid #E8E8E8;
+  /*border-bottom: 1px solid #E8E8E8;*/
 }
 
 /* line 6, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_team.scss */
@@ -2444,24 +2444,24 @@ h3 {
 
 /* line 156, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
 .socail_links ul li a {
-  font-size: 13px;
+  font-size: 25px;
   color: #fff;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   display: inline-block;
   text-align: center;
   background: #1A1A1A;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  line-height: 40px !important;
+  line-height: 60px !important;
   margin-left: 10px;
   color: #FFFFFF;
-  line-height: 41px !important;
+  line-height: 61px !important;
 }
 
 /* line 169, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
-.footer .socail_links ul li a:hover {
+.socail_links ul li a:hover {
   color: #fff !important;
   background: #6EBFF9;
 }
@@ -2986,12 +2986,14 @@ h3 {
 /* line 1, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_contact_info.scss */
 .contact_info_area {
   padding: 0 0 100px 0;
+  border-bottom: 1px solid #E8E8E8;
 }
 
 @media (max-width: 767px) {
   /* line 3, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_contact_info.scss */
   .contact_info_area .cotact_info {
     margin-bottom: 30px;
+    border-bottom: 1px solid #E8E8E8;
   }
 }
 
@@ -2999,6 +3001,7 @@ h3 {
   /* line 3, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_contact_info.scss */
   .contact_info_area .cotact_info {
     margin-bottom: 30px;
+    border-bottom: 1px solid #E8E8E8;
   }
 }
 
@@ -6219,6 +6222,7 @@ h6 {
   padding-left: 5px !important;
   margin-right: auto;
   margin-left: auto;
+  border-bottom: 1px solid #E8E8E8;
 }
 
 .header-row{
@@ -6226,7 +6230,7 @@ h6 {
 }
 
 .border_bottom {
-  border-bottom: 1px solid #E8E8E8;
+  /*border-bottom: 1px solid #E8E8E8;*/
 }
 
 .mx-auto {
