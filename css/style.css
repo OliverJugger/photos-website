@@ -1011,7 +1011,7 @@ h3 {
 .header-area .main-header-area .social_links ul li a {
   color: #919699;
   margin: 0 7px;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 /* line 92, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_header.scss */
@@ -2992,16 +2992,14 @@ h3 {
 @media (max-width: 767px) {
   /* line 3, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_contact_info.scss */
   .contact_info_area .cotact_info {
-    margin-bottom: 30px;
-    border-bottom: 1px solid #E8E8E8;
+    margin-bottom: 20px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 3, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_contact_info.scss */
   .contact_info_area .cotact_info {
-    margin-bottom: 30px;
-    border-bottom: 1px solid #E8E8E8;
+    margin-bottom: 20px;
   }
 }
 
@@ -6245,5 +6243,8 @@ h6 {
   text-align : center;
 }
 
+#navigation li a.active {
+  border-bottom : 1px solid white;
+}
 
 /*# sourceMappingURL=style.css.map */
